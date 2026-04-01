@@ -1,0 +1,11 @@
+Food,Temperature,Storage_Time,Humidity,pH,Bacterial_Count,Risk_level,Risk_Score,Decision
+Milk,8,5,75,6.5,200,Medium Risk,40,Safe
+Chicken,30,6,80,6.2,1500,High Risk,100,Unsafe
+Rice,25,4,70,6.8,800,Medium Risk,65,Monitor
+Apple,10,3,65,4,100,Low Risk,30,Safe
+Paneer,12,5,78,5.5,500,Medium Risk,40,Safe
+Fish,28,5,85,6.3,1800,High Risk,80,Monitor
+Egg,20,4,72,7,600,Medium Risk,50,Monitor
+Butter,5,6,60,6.7,150,Medium Risk,50,Monitor
+Banana,15,3,68,4.5,120,Low Risk,30,Safe
+Meat,32,6,82,6.1,2000,High Risk,100,Unsafe
